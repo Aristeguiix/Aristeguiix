@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Aristeguiix/Aristeguiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Rodrigo Aristegui 🚀
 
-Here are some ideas to get you started:
+## Sobre mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Amante de los videojuegos y la tecnología.
+- 😺 ¡Gatos, gatos y más gatos! Son mi pasión.
+- 🎓 Egresado del programa de Testing en Jóvenes a Programar impartido por Ceibal.
+- 🌟 Actualmente explorando el fascinante mundo del Cloud Computing AWS a través de Tu Futuro & Re/Start AWS, una emocionante iniciativa de Amazon, ejecutada por Fundación Forge e INEFOP.
+- 💻 También estoy sumergiéndome en el apasionante mundo del desarrollo de software en Coding Dojo.
+
+## Mis intereses:
+
+- ☁️ Cloud Computing
+- 🛠️ Desarrollo de Software
+- 🎮 Videojuegos
+- 🐱 Gatos
+
+¡Siéntete libre de explorar mis proyectos y conectarte conmigo! ¡Estoy emocionado de compartir conocimientos! 😊
