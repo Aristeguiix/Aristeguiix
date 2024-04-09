@@ -13,7 +13,7 @@
 ## Mis intereses:
 
 - ☁️ Cloud Computing
-- 🛠️ Desarrollo de Software
+- 🛠️ Testing de Software
 - 🎮 Videojuegos
 - 🐱 Gatos
 
